@@ -1,0 +1,1 @@
+import{d as e,i as t,n}from"./mockProfiles-Cz0dvptL.js";var r=r=>`profile:${e?n.activeId():t}:${r}`;export{r as t};
