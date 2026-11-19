@@ -1,0 +1,1 @@
+import{m as e}from"./index-DIcEa_Qj.js";import{t}from"./jsx-runtime-BMsyJmCf.js";var n=t();function r(t){return(0,n.jsx)(e,{fill:`none`,viewBox:`0 0 24 24`,...t,children:(0,n.jsx)(`path`,{stroke:`currentColor`,strokeLinecap:`round`,strokeLinejoin:`round`,strokeWidth:2,d:`m15 19-7-7 7-7`})})}export{r as t};

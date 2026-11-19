@@ -1,0 +1,1 @@
+import{i as e,r as t,s as n}from"./index-DIcEa_Qj.js";var r=r=>`profile:${n?t.activeId():e}:${r}`;export{r as t};
