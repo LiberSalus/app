@@ -1,0 +1,1 @@
+import{d as e,i as t,n}from"./mockProfiles-CNCWA61V.js";var r=r=>i(e?n.activeId():t,r),i=(e,t)=>`profile:${e}:${t}`;export{r as n,i as t};
