@@ -1,0 +1,1 @@
+import{t as e}from"./Icon-DTMLG-9S.js";import{t}from"./jsx-runtime-CldxteV5.js";var n=t();function r(t){return(0,n.jsx)(e,{fill:`none`,viewBox:`0 0 24 24`,...t,children:(0,n.jsx)(`path`,{stroke:`currentColor`,strokeLinecap:`round`,strokeLinejoin:`round`,strokeWidth:2,d:`m15 19-7-7 7-7`})})}export{r as t};
