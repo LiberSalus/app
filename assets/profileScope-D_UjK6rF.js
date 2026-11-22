@@ -1,0 +1,1 @@
+import{f as e,i as t,n}from"./mockProfiles-BVmtVPFM.js";var r=r=>i(e?n.activeId():t,r),i=(e,t)=>`profile:${e}:${t}`;export{r as n,i as t};
